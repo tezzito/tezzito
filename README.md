@@ -10,6 +10,16 @@
 
 ###
 
+<h1 align="left">Gamedev:</h1>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="38" alt="unity logo"  />
+</div>
+
+###
+
 <h1 align="left">Socials:</h1>
 
 ###
@@ -22,3 +32,5 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=@tezzito&color=2CA5E0&logoColor=white&labelColor=black&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
+
+###
